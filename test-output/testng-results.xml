@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-11T15:21:39 IST" name="Suite" finished-at="2023-10-11T15:21:44 IST" duration-ms="5431">
+    <groups>
+    </groups>
+    <test started-at="2023-10-11T15:21:39 IST" name="Test" finished-at="2023-10-11T15:21:44 IST" duration-ms="5431">
+      <class name="com.TestNG.TestClasses.TestClass2">
+        <test-method is-config="true" signature="bfrcls()[pri:0, instance:com.TestNG.TestClasses.TestClass2@4a883b15]" started-at="2023-10-11T15:21:39 IST" name="bfrcls" finished-at="2023-10-11T15:21:42 IST" duration-ms="3124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrcls -->
+        <test-method signature="runTest2()[pri:0, instance:com.TestNG.TestClasses.TestClass2@4a883b15]" started-at="2023-10-11T15:21:42 IST" name="runTest2" finished-at="2023-10-11T15:21:44 IST" duration-ms="2129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TestNG.TestClasses.TestClass2@4a883b15]" started-at="2023-10-11T15:21:44 IST" name="teardown" finished-at="2023-10-11T15:21:44 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.TestNG.TestClasses.TestClass2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
